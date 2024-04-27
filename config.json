@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "prefix": "+",
+    "token": "", // Ba la tu met le token de ton bot discord
+    "prefix": "+", // Commandes textuelle sans devoir faire /. Mais il y a moin de commande en prefix qu'en slash. (si vous ne voulez pas utiliser le bot en textuelle mettez un prefix aléatoire ex : ????????
 
     "BDD": {
         "note": "si tu ne comprend pas ce qu'il faut faire je te coneille d'aller voir le readme du github ou rejoindre le support https://discord.gg/uhq",
@@ -10,6 +10,6 @@
         "database": "betterbots",
         "charset": "utf8mb4"
     },
-    "buyer": "",
+    "buyer": "", //Ton id
     "apikey": ""
 }   
